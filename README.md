@@ -36,10 +36,6 @@ To play Subway Surfers on your local machine, follow these steps:
 
 Contributions to enhance the Subway Surfers game are welcome! If you have any ideas, bug fixes, or new features to add, feel free to open an issue or submit a pull request.
 
-## 📄 License
-
-Subway Surfers Game with Unity is licensed under the [MIT License](LICENSE).
-
 ## 🌟 Acknowledgments
 
 We express our gratitude to the Unity community and the creators of "Subway Surfers" for inspiring and contributing to the development of this game.
